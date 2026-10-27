@@ -12,8 +12,3 @@ App.vue
               ├─ emit: on-complete
               └─ emit: on-delete
 ```
-export interface Task {
-  id: number
-  name: string
-  completed: boolean
-}
